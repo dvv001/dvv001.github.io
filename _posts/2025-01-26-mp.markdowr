@@ -1,12 +1,13 @@
-  ---
-Layout: post
-title: "2025新年祝福"
-author: "Techshrimp"
-header-style: text
-catalog: true
+---
+layout:     post
+title:      "2025新年祝福"
+date:       2025-01-26 06:01:01
+author:     "Hello"
+header-img: "img/post-bg-miui6.jpg"
 tags:
-    - web
-    - Javascript
+    - 2025
+    - 祝福
+    - hello
 ---
 
 2025新年祝福：迎接未来的无限可能
